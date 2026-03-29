@@ -3,7 +3,7 @@
 
 Tapit is a dynamic Tic Tac Toe game for Android where each player's 4th move makes their 1st move vanish. Enjoy a fresh twist on the classic game with strategic gameplay and an intuitive interface. Play with friends and experience a new level of fun!
 
-## COde is available in Masters branch
+## Code is available in Master branch
 
 ## Features
 
